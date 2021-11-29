@@ -1,6 +1,6 @@
 # Tree Based Algorithms Approach on Predicting Customer Satisfaction
 ## Data Understanding
-The dataset is about Brazil Public E-Commerce Public dataset by Olist from Kaggle and licensed to be used publicly by its author. The idea of this project is to predict in the future whether customer will give good or bad review based on the predicting review score column that is correlated with other columns. The dataset contains order-related columns, product-related columns, payment-related columns, and specificially review score column.
+The dataset is about Brazil Public E-Commerce Public dataset by Olist from [Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce) and [licensed](https://creativecommons.org/licenses/by-nc-sa/4.0/) to be used publicly by its author. The idea of this project is to predict in the future whether customer will give good or bad review based on the predicting review score column that is correlated with other columns. The dataset contains order-related columns, product-related columns, payment-related columns, and specificially review score column.
 
 ## Data Modelling outline
 These are few steps of the modelling technique that is used on this project:
@@ -33,4 +33,4 @@ The tree-based modelling that we're going to use is Decision tree, Random forest
 Each of the tree-based modelling will be evaluate on its performance, accuracy, and efficiency. The confusion matrix and classification report syntax are used to see the accuracy and the performance of each machine learning modelling. The processing time of each model will determine its efficiency, the faster modelling process the more efficient the modelling process.
 
 ## Conclusion
-For more further explanation, you can check my coding in this repository. To summarized and make a simple explanation for this project, I've also added my powerpoint presentation so that you can see my end result for this project.
+For more further explanation, you can check my [coding](https://github.com/nugrahazikry/Customer-Satisfaction-Prediction-using-Tree-Based-ML/blob/main/Tree-Based%20Algorithms%20Approach%20on%20Predicting%20Customer%20Satisfaction.ipynb) in this repository. To summarized and make a simple explanation for this project, I've also added my [powerpoint presentation](https://github.com/nugrahazikry/Customer-Satisfaction-Prediction-using-Tree-Based-ML/blob/main/Tree-Based%20Algorithms%20Approach%20on%20Predicting%20Customer%20Satisfaction.pptx) so that you can see my end result for this project.
