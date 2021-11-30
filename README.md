@@ -27,6 +27,7 @@ Before starting the machine learning modelling, we're going to split the dataset
 2. Cross validation
 3. Tree-based modelling
 4. Model evaluation
+
 The tree-based modelling that we're going to use is Decision tree, Random forest, and Gradient boosting. The idea of this project is to compare all of those tree-based modelling and decide which is the best and the most efficient machine learning modelling to predict customer satisfaction.
 
 ## Machine learning model evaluation
