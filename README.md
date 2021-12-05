@@ -56,4 +56,4 @@ Each of the tree-based modelling will be evaluate on its performance, accuracy, 
 
 ## Conclusion
 For more further explanation, you can check my [coding](https://github.com/nugrahazikry/Customer-Satisfaction-Prediction-using-Tree-Based-ML/blob/main/Tree-Based%20Algorithms%20Approach%20on%20Predicting%20Customer%20Satisfaction.ipynb) in this repository. 
-To summarized and make a simple explanation for this project, I've also added my [powerpoint presentation](https://github.com/nugrahazikry/Customer-Satisfaction-Prediction-using-Tree-Based-ML/blob/main/Tree-Based%20Algorithms%20Approach%20on%20Predicting%20Customer%20Satisfaction.pptx) so that you can see my end result for this project.
+To summarized and make a simple explanation for this project, I've also added my [powerpoint presentation](https://github.com/nugrahazikry/Tree-Based-Algorithms-Approach-on-Predicting-Customer-Satisfaction/blob/main/Tree-Based%20Algorithms%20Approach%20on%20Predicting%20Customer%20Satisfaction%20Powerpoint.pdf) so that you can see my end result for this project.
