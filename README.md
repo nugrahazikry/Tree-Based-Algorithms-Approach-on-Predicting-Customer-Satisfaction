@@ -16,7 +16,7 @@ These are few steps of the modelling technique that is used on this project:
 Before proceeding with the process, the raw dataset must be combined. We will only include the dataset with order-related columns, product-related columns, payment-related columns, and, specifically, review score columns. There are 115,689 rows and 16 columns in total. Each column is labeled with its own description. The unused column from the original column has been removed, and the 16 columns are the only columns that will be used for our analysis and modeling.
 
 **Below is a description of each of the 16 columns.**
-<li>**order_status**: This is a reference to the order status (delivered or canceled).</li>
+<li>order_status: This is a reference to the order status (delivered or canceled).</li>
 <li>order_purchase_timestamp: Displays the timestamp of each item's purchase.</li>
 <li>order_delivered_customer_date: Displays the customer's actual order delivery date.</li>
 <li>order_estimated_delievy_date: Displays the estimated delivery date that was provided to the customer at the time of purchase.</li>
