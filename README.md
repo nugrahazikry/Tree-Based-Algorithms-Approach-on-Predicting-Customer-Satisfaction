@@ -16,22 +16,22 @@ These are few steps of the modelling technique that is used on this project:
 Before proceeding with the process, the raw dataset must be combined. We will only include the dataset with order-related columns, product-related columns, payment-related columns, and, specifically, review score columns. There are 115,689 rows and 16 columns in total. Each column is labeled with its own description. The unused column from the original column has been removed, and the 16 columns are the only columns that will be used for our analysis and modeling.
 
 **Below is a description of each of the 16 columns.**
-<li>order_status: This is a reference to the order status (delivered or canceled).<li>
-order_purchase_timestamp: Displays the timestamp of each item's purchase.
-order_delivered_customer_date: Displays the customer's actual order delivery date.
-order_estimated_delievy_date: Displays the estimated delivery date that was provided to the customer at the time of purchase.
-shipping_limit_date: Displays the seller's shipping limit date for transferring the order to the logistic partner.
-payment_sequential: A customer may pay for an order using multiple payment methods.
-payment_type: The customer's preferred method of payment.
-payment_installments: The customer's preferred number of payment installments.
-payment_value: The transaction's value.
-price: The cost of each item.
-freight_value: The cost of transportation for each item (if an order has more than one item the freight value is split between items).
-product_category: Each item's category.
-product_name_length: The number of characters extracted from the product name.
-product_description_length: The number of characters extracted from the product description.
-product_photos_qty: The number of product photos that have been published.
-review_score: A rating given by a customer on a satisfaction survey ranging from 1 to 5.
+<li>order_status: This is a reference to the order status (delivered or canceled).</li>
+<li>order_purchase_timestamp: Displays the timestamp of each item's purchase.</li>
+<li>order_delivered_customer_date: Displays the customer's actual order delivery date.</li>
+<li>order_estimated_delievy_date: Displays the estimated delivery date that was provided to the customer at the time of purchase.</li>
+<li>shipping_limit_date: Displays the seller's shipping limit date for transferring the order to the logistic partner.</li>
+<li>payment_sequential: A customer may pay for an order using multiple payment methods.</li>
+<li>payment_type: The customer's preferred method of payment.</li>
+<li>payment_installments: The customer's preferred number of payment installments.</li>
+<li>payment_value: The transaction's value.</li>
+<li>price: The cost of each item.</li>
+<li>freight_value: The cost of transportation for each item (if an order has more than one item the freight value is split between items).</li>
+<li>product_category: Each item's category.</li>
+<li>product_name_length: The number of characters extracted from the product name.</li>
+<li>product_description_length: The number of characters extracted from the product description.</li>
+<li>product_photos_qty: The number of product photos that have been published.</li>
+<li>review_score: A rating given by a customer on a satisfaction survey ranging from 1 to 5.</li>
 
 ## Data cleaning & preprocessing
 Data cleaning is used to find the data with NaN value so that the data can be processed even further using machine learning modelling. The preprocessing process is used to change the value of certain column into the proper value for the modelling purpose. Decision tree modeling does not support missing values. Therefore, data preprocessing will include a data cleaning process to detect any missing values in each column.
