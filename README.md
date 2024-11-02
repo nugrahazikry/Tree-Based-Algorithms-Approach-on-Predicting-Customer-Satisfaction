@@ -1,4 +1,9 @@
 # Tree Based Algorithms Approach on Predicting Customer Satisfaction
+## For more information
+Check out my Towards Data Science Articles:
+
+https://towardsdatascience.com/tree-based-algorithms-approach-on-predicting-customer-satisfaction-296730e19baa
+
 ## Data Understanding
 The dataset is about Brazil Public E-Commerce Public dataset by Olist from [Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce) and [licensed](https://creativecommons.org/licenses/by-nc-sa/4.0/) for its author to use publicly. The goal of this project is to predict whether a customer will give a positive or negative review in the future using the predicting review score column, which is correlated with other columns. Order-related columns, product-related columns, payment-related columns, and a review score column are all included in the dataset.
 
